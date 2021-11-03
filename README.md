@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Vue.js 
 - 👯 I’m looking to collaborate with other developers to create great products!
 - 🥅 2021 Goals: Have a deep understanding on Vue.js
-- ⚡ Fun fact: I´m a freediver that can dive as deep as 27m in just one breath!
+- ⚡ Fun fact: I´m a freediver and I can dive as deep as 27m in just one breath!
 
 ### Connect with me:
 
