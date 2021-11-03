@@ -1,7 +1,7 @@
 ### Hi there, this is Joel 👋
 
 
-## I'm a Full Stack developer that has fallen in love with Vue.js and it´s ecosystem!!
+### I'm a Full Stack developer that has fallen in love with Vue.js and it´s ecosystem!!
 
 - 🔭 I just launched an aim training tool: [Far West Sniper!][website]!
 - 🌱 I’m currently learning Vue.js 
@@ -29,21 +29,19 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitlab/gitlab.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <br />
-<br />
 
----
+### GitHub Stats:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img alt="Joel's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JoelRocaMartinez&count_private=true&theme=tokyonight&showicons=true" />
 
-  <img align="left" alt="Joel's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JoelRocaMartinez&show_icons=true&hide_border=true" />
+<img alt="Joel's most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelRocaMartinez&langs_count=5&theme=tokyonight" />
 
-</details>
+
+
 
 [website]: https://far-west-sniper.herokuapp.com/
 [linkedin]: https://linkedin.com/in/joel-roca-martinez
