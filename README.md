@@ -4,7 +4,7 @@
 ### I'm a Full Stack developer that has fallen in love with Vue.js and it´s ecosystem!!
 
 - 🔭 I just launched an aim training tool: [Far West Sniper!][website]!
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning Go!
 - 👯 I’m looking to collaborate with other developers to create great products!
 - 🥅 2021 Goals: Have a deep understanding on Vue.js
 - ⚡ Fun fact: I´m a freediver and I can dive as deep as 27m in just one breath!
